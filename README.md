@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer | Full-Stack Enthusiast<br>Building scalable web systems with NestJS, PostgreSQL & React. Exploring  clean architecture along the way.<br>
+Backend | Full-Stack Developer<br>Building scalable web systems with NestJS, PostgreSQL & React. Exploring  clean architecture along the way.<br>
 
 
 # 💻 Tech Stack:
